@@ -2,6 +2,7 @@ SPOJDCEPC504
 ============
 
 Solution to the problem "The Indian Connection" from SPOJ (http://www.spoj.com/problems/DCEPC504/)
+
 The solution was accepted after some minor changes to run in the SPOJ compiler (http://www.spoj.com/status/DCEPC504,ssotomayor/)
 
 Rajesh Kuthrapali has a weird family structure. Every male member gives birth to a male child first and then a female child whereas every female member gives birth to a female child first and then to a male child. Rajesh analyses this pattern and wants to know what will be the Kth child in his Nth generation. Help him.
@@ -47,12 +48,21 @@ Print “Male” for male “Female” for female (quotes only for clarification
 
 Input:
 4
+
 1 1
+
 2 1
+
 2 2
+
 4 5
+
 Output:
+
 Male
+
 Male
+
 Female
+
 Female
